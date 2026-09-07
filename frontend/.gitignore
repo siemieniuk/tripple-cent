@@ -5,10 +5,9 @@
 /tmp
 /out-tsc
 /bazel-out
-.angular/cache/22.1.5/project/.tsbuildinfo
 
 # Node
-/node_modules
+node_modules
 npm-debug.log
 yarn-error.log
 
